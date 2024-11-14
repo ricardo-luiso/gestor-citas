@@ -1,0 +1,1 @@
+import {generarId} from './app.js'
